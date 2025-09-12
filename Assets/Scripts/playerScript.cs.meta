@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56872d8359a173c4d81b9d8efa79c3af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerIdle: {instanceID: 0}
+  - playerLeft: {instanceID: 0}
+  - playerRight: {instanceID: 0}
+  - laserShot: {fileID: 2599073690634378892, guid: 2951b393669efc949bed71ed3119be59, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
